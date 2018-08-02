@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "exelDisplay", "exelDisplay\exelDisplay.pyproj", "{AD43F507-D6BB-46CF-8B70-A45CD5C51683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD43F507-D6BB-46CF-8B70-A45CD5C51683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD43F507-D6BB-46CF-8B70-A45CD5C51683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02739C0D-CB4E-4FDE-9391-DB6B4C030049}
+	EndGlobalSection
+EndGlobal
